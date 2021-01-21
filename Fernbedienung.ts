@@ -3,8 +3,7 @@
  * Typ: TypeScript
  * 
  * = Anleitung =
- * In der Funktion "main" eine neue Klasse (der Name ist irrelevant) mit
- * folgenden Parametern erstellen:
+ * In der Funktion "main" eine neue Klasse mit folgenden Parametern erstellen:
  *  - Objekt-ID der Fernbedienung (des Ordners)
  *  - Array aus
  *  -- source: Datenpunkt des Knopfes (letzter Teil)
